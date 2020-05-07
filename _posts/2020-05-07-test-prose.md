@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 test
 [prose](https://prose.io/)
